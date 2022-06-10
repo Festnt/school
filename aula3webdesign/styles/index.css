@@ -1,0 +1,21 @@
+.tit1{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    color:darkslateblue;
+    background-color:aquamarine;
+    margin: 0;
+}
+.txt1{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+.txt2{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+.txt1 img{
+    width: 150px;
+}
+.txt2 img{
+    width: 300px;
+}
+.img3{
+    float: right;
+}
